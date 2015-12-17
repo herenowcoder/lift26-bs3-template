@@ -1,0 +1,6 @@
+/target/
+/project/target/
+/.cache
+/extsrc
+/console.devmode.log
+/*.h2.db
